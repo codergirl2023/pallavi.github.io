@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Pallavi!"
+title:  "Welcome Pallavi!"
 date:   2023-04-25 21:14:29 -0700
 categories: jekyll update
 ---
